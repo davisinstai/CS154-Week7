@@ -1,5 +1,6 @@
 # CS154-Week6
 
 Topics:
-* Functions
 * Recursion
+* Efficiency
+* Top-Down Design
